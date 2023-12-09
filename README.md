@@ -2,8 +2,8 @@
 
 
 ## 👩‍💻 About me
-I'm a IT student at FATEC, in Brazil. I'm currently taking a C# OOP course, having recently finished CS50x, Harvard's Computer Science course.
-I’m currently working on a RESTful API in Java with Spring Boot for a SIGA mobile application I plan to do I Kotlin with Jetpack Compose.
+I'm a IT student at FATEC, in Brazil. I'm currently taking a C# OOP course, having recently finished CS50x, Harvard's Computer Science course.   
+I’m currently working on a RESTful API in Java with Spring Boot for a SIGA mobile application I plan to do I Kotlin with Jetpack Compose.    
 I won't be updating this bio very frequently, so contact me for the lastest news!
 
 <br>
