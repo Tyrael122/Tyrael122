@@ -3,11 +3,8 @@
 
 ## 👩‍💻 About me
 I'm a IT student at FATEC, in Brazil. I'm currently taking a C# OOP course, having recently finished CS50x, Harvard's Computer Science course.
-<ul>
-    <li>🌱 I’m currently learning C# by taking an C# OOP course.</li>
-    <li>👯 I’m looking to collaborate on a fun project with someone!</li>
-    <li>🔭 But I've been working on my Resume Website with Flask, and in a Telegram Bot I made for CS50x final project.</li>
-</ul>
+I’m currently working on a RESTful API in Java with Spring Boot for a SIGA mobile application I plan to do I Kotlin with Jetpack Compose.
+I won't be updating this bio very frequently, so contact me for the lastest news!
 
 <br>
 <br>
