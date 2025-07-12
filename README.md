@@ -1,36 +1,34 @@
-# 👋 Welcome to My GitHub  
+# Kauan - Software Engineer
 
-I'm a **Java Developer** with +2 years of experience, constantly learning and evolving through hands-on projects and freelance work. I specialize in **Android**, **Web**, and **Backend** development, leveraging modern technologies to build scalable and maintainable solutions.  
+I specialize in building distributed systems and scalable applications with expertise in backend development, cloud technologies, and message-driven architectures.
 
----
+## Technical Focus Areas
+- Distributed Systems & Microservices
+- Message Brokers (Kafka, RabbitMQ)
+- Cloud Platforms (AWS, Azure)
+- Containerization & Orchestration
+- Full-Stack Development
 
-## 🛠️ Tech Stack  
+## Project Showcase
 
-### Main Technologies  
-- **Backend**: Java + Spring Boot  
-- **Android**: Kotlin + Jetpack Compose  
-- **Web**: React + TypeScript + Next.js  
+### Messaging Systems
+Developed several messaging platforms exploring different architectures:
+- Kafka-based CLI chat application
+- WhatsApp-inspired systems using both Redis and RabbitMQ
+- Real-time WebSocket implementation with React/NextJS frontend
 
-### Secondary Technologies  
-- C# and VB.NET (.NET Framework)  
-- Python  
+### Cloud & Serverless
+Built multiple cloud-native applications:
+- Cross-platform serverless functions (AWS Lambda, Azure Functions)
+- Financial transaction processing system
+- Scalable URL shortener with Redis caching
 
-### Tools  
-- Git  
-- Docker  
-- Jenkins  
-- And other common development tools  
+### Web Applications
+Created frontend applications including:
+- Movie discovery platform (Angular + TMDB API)
+- Kubernetes-based stock trading simulation
 
----
+For a complete list of my technical projects with detailed descriptions and technologies used, please visit my [Personal Projects Aggregator repository](https://github.com/Tyrael122/personal-projects-aggregator).
 
-## 📚 Continuous Learning  
-
-I am deeply committed to improving my technical skills by:  
-- Developing personal projects to explore and refine new concepts.  
-- Reading technical books like *Clean Code* by Robert Martin and *Computer Networks* by Tanenbaum.  
-
----
-
-## 🌟 Key Strengths  
-- **Proficiency in English**: Certified C1 level, ensuring smooth communication and understanding of technical documentation.  
-- **Passion for Clean Code**: Adopting best practices for writing clean, efficient, and maintainable code.
+## Professional Profile
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kauanborges/)  
