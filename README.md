@@ -15,7 +15,6 @@ I specialize in building distributed systems and scalable applications with expe
 Developed several messaging platforms exploring different architectures:
 - Kafka-based CLI chat application
 - WhatsApp-inspired systems using both Redis and RabbitMQ
-- Real-time WebSocket implementation with React/NextJS frontend
 
 ### Cloud & Serverless
 Built multiple cloud-native applications:
@@ -26,7 +25,8 @@ Built multiple cloud-native applications:
 ### Web Applications
 Created frontend applications including:
 - Movie discovery platform (Angular + TMDB API)
-- Kubernetes-based stock trading simulation
+- Real-time WhatsApp webapp WebSocket implementation with React/NextJS frontend
+
 
 For a complete list of my technical projects with detailed descriptions and technologies used, please visit my [Personal Projects Aggregator repository](https://github.com/Tyrael122/personal-projects-aggregator).
 
